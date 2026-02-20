@@ -107,23 +107,6 @@ mvnw.cmd test
 ```
 
 
-## Contributing
-
-- Fork or clone the repository and create a feature branch.
-- Run the app locally and add your changes.
-- Ensure you keep the project Java version (17) unless you update `pom.xml`.
-- Create a PR with a short description and testing steps.
-
-
-## License
-
-No license is provided in the repository. Add a `LICENSE` file if you want to specify one.
-
-
-## Questions / Next steps
-
-If you want, I can:
-- Add cross-platform run instructions (macOS/Linux)
 - Add a Dockerfile for containerized runs
 - Improve the UI (display timestamps, different styles)
 - Add user join/leave notifications or persistence
